@@ -7,7 +7,7 @@ Create a Docker container that runs weechat.
 
 To setup, clone this repo and run: 
 ```sh
-docker build docker-weechat
+docker build -t docker-weechat .
 ```
 
 
